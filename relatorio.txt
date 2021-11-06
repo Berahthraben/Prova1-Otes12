@@ -1,0 +1,27 @@
+
+DEPARTAMENTO DE Propaganda
+...ID || NOME || DEPARTAMENTO || DATA CONTR. || HRS. TREINAMENTO
+...3456 || Carlos Gonçalves || Propaganda || 2000-11-18 || 60
+...4567 || Alan Castilho || Propaganda || 2019-03-10 || 16
+...8901 || Raul Loureiro || Propaganda || 2020-10-17 || 24
+...9012 || Luis Antunes || Propaganda || 2007-03-15 || 48
+...MEDIA DE HORAS DE TREINO P/ O DEPARTAMENTO: 37.0
+
+DEPARTAMENTO DE Expedição
+...ID || NOME || DEPARTAMENTO || DATA CONTR. || HRS. TREINAMENTO
+...6789 || Natalia Severino || Expedição || 2012-05-18 || 32
+...MEDIA DE HORAS DE TREINO P/ O DEPARTAMENTO: 32.0
+
+DEPARTAMENTO DE Vendas
+...ID || NOME || DEPARTAMENTO || DATA CONTR. || HRS. TREINAMENTO
+...1234 || João Silva || Vendas || 2016-06-18 || 24
+...7890 || Marta Arruda || Vendas || 2019-12-15 || 80
+...MEDIA DE HORAS DE TREINO P/ O DEPARTAMENTO: 52.0
+
+DEPARTAMENTO DE Produção
+...ID || NOME || DEPARTAMENTO || DATA CONTR. || HRS. TREINAMENTO
+...2345 || Maria Paula || Produção || 2018-02-12 || 40
+...5678 || Beatriz Figueireido || Produção || 2010-07-26 || 56
+...MEDIA DE HORAS DE TREINO P/ O DEPARTAMENTO: 48.0
+
+MEDIA DE HORAS DE TREINAMENTO DA EMPRESA: 42.22222222222222
